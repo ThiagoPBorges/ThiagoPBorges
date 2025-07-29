@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🙋‍♂️ Thiago Borges
 
-<!--
-**ThiagoPBorges/ThiagoPBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Futuro analista de Dados`**
 
-Here are some ideas to get you started:
+Sou Thiago Prochnow Borges, tenho 21 anos e sou natural de Campinas-SP. Atualmente curso Administração na ESAMC Campinas.  
+Sou apaixonado por análise de dados, visualizações e automações que tornam a tomada de decisão mais eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagopborges/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoprochnow1@gmail.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoPBorges)
+
+---
+
+### 💻 Linguagens e Ferramentas
+
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" />
+<img
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/power-bi.png" />
+<img align="left" alt="Excel" title="Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoPBorges&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPBorges&layout=compact&theme=tokyonight" 
+  />
+</p>
