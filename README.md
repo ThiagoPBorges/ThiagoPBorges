@@ -1,4 +1,4 @@
-# 🙋‍♂️ Thiago Borges
+# 🙋‍♂️ Thiago Prochnow Borges
 
 **`Futuro analista de Dados`**
 
