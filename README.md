@@ -4,7 +4,7 @@
 
 Sou Thiago Prochnow Borges, tenho 21 anos e sou natural de Campinas-SP. Atualmente curso Administração na ESAMC Campinas.
 Sou apaixonado por análise de dados, visualizações e automações que tornam a tomada de decisão mais eficiente.
-Utilizo ferramentas como Power BI, SQL, Power Apps, Power Automate e VBA para transformar dados em soluções práticas e estretégicas.
+Utilizo ferramentas como Power BI,Python, SQL, Power Apps, Power Automate e VBA para transformar dados em soluções práticas e estretégicas.
 Tenho uma curiosidade constante em aprender e estou sempre explorando novas formas de analisar, automatizar e gerar valor com dados.
 
 ---
@@ -13,7 +13,6 @@ Tenho uma curiosidade constante em aprender e estou sempre explorando novas form
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagopborges/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoprochnow1@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoPBorges)
 
 ---
 
